@@ -6,10 +6,7 @@ This folder contains all svg icons in the solid style.
 
 All icons and their respective file sizes can be viewed below:
 
-<table width=140px>
-    <style>
-        td > img { width:80%;aspect-ratio:1/1;background:#fff }
-    </style>
+<table>
     <tr><th>Icon</th><th>Size</th></tr>
     <tr><td><img src="bookmark.svg"></td><td>137B</td></tr>
     <tr><td><img src="cloud.svg"></td><td>165B</td></tr>
