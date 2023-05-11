@@ -16,6 +16,8 @@ All icons and their respective file sizes can be viewed below:
     <tr><td><img src="eyeglass.svg"></td><td>165B</td></tr>
     <tr><td><img src="grid-2x2.svg"></td><td>177B</td></tr>
     <tr><td><img src="grid-3x3.svg"></td><td>243B</td></tr>
+    <tr><td><img src="toggle-off.svg"></td><td>154B</td></tr>
+    <tr><td><img src="toggle-on.svg"></td><td>175B</td></tr>
     <tr><td><img src="x-mark.svg"></td><td>129B</td></tr>
-    <tr><td><p><b>Total</b><p></td><td>1,500B</td></tr>
+    <tr><td><p><b>Total</b><p></td><td>1,829B</td></tr>
 </table>
