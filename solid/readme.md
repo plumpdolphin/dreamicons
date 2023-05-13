@@ -4,8 +4,9 @@
 
 This folder contains all svg icons in the solid style.
 
-All icons and their respective file sizes can be viewed below:
+*Average icon file size is only approximately 173 bytes!*
 
+All icons and their respective file sizes can be viewed below:
 <table>
     <tr><th>Icon</th><th>Size</th></tr>
     <tr><td><img width=40 height=40 src="arrow-nav.svg"></td><td>134B</td></tr>
@@ -16,6 +17,7 @@ All icons and their respective file sizes can be viewed below:
     <tr><td><img width=40 height=40 src="ellipsis-h.svg"></td><td>151B</td></tr>
     <tr><td><img width=40 height=40 src="ellipsis-v.svg"></td><td>151B</td></tr>
     <tr><td><img width=40 height=40 src="eyeglass.svg"></td><td>165B</td></tr>
+    <tr><td><img width=40 height=40 src="folder.svg"></td><td>140B</td></tr>
     <tr><td><img width=40 height=40 src="globe.svg"></td><td>191B</td></tr>
     <tr><td><img width=40 height=40 src="grid-2x2.svg"></td><td>170B</td></tr>
     <tr><td><img width=40 height=40 src="grid-3x3.svg"></td><td>230B</td></tr>
