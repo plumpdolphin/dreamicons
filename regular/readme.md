@@ -26,5 +26,6 @@ All icons and their respective file sizes can be viewed below:
     <tr><td><img width=40 height=40 src="sliders.svg"></td><td>297B</td></tr>
     <tr><td><img width=40 height=40 src="toggle-off.svg"></td><td>154B</td></tr>
     <tr><td><img width=40 height=40 src="toggle-on.svg"></td><td>175B</td></tr>
+    <tr><td><img width=40 height=40 src="trash.svg"></td><td>218B</td></tr>
     <tr><td><img width=40 height=40 src="x-mark.svg"></td><td>131B</td></tr>
 </table>
