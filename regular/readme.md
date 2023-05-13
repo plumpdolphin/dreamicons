@@ -20,6 +20,7 @@ All icons and their respective file sizes can be viewed below:
     <tr><td><img width=40 height=40 src="grid-2x2.svg"></td><td>183B</td></tr>
     <tr><td><img width=40 height=40 src="grid-3x3.svg"></td><td>243B</td></tr>
     <tr><td><img width=40 height=40 src="mail.svg"></td><td>186B</td></tr>
+    <tr><td><img width=40 height=40 src="person.svg"></td><td>155B</td></tr>
     <tr><td><img width=40 height=40 src="pin-mark.svg"></td><td>188B</td></tr>
     <tr><td><img width=40 height=40 src="share.svg"></td><td>238B</td></tr>
     <tr><td><img width=40 height=40 src="sliders.svg"></td><td>297B</td></tr>
