@@ -7,15 +7,12 @@
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-orange.svg?style=flat-square&logo=python&logoColor=yellow)](https://img.shields.io/badge/rust-1.61%2B-orange.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/plumpdolphin/dreamicons?style=flat-square&label=Last%20Commit)
 </div>
-<hr>
 
 The **Dream Icons** project is a open repository of lightweight, hand-crafted svg icons for use in applications where clean, modern style and load performance is of paramount importance. 
 All icons come in one of two types: **regular** and **solid**. 
 
 All Dream Icons are CC0 licensing, which means not only are they copyright-free, but they are attribution free as well. 
 Dream Icons are the perfect fit for anything from web and desktop applications to games and even embedded web servers!
-
-<hr>
 
 ## **Usage instructions**
 
